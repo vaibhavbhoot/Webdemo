@@ -1,5 +1,5 @@
-# Mr.webDesigner
-all projects with mr. web designer by html css js ,jquery<br>
+
+all projects with html css js ,jquery<br>
 https://vaibhavbhoot.github.io/Webdemo/App_landing_page_1<br>
 https://vaibhavbhoot.github.io/Webdemo/App_landing_page_2<br>
 https://vaibhavbhoot.github.io/Webdemo/Architecture&Interior<br>
